@@ -69,3 +69,6 @@ body {
   color: lightgray;
   background-color: orangered;
 }
+.btn:focus{
+  outline: none
+}
